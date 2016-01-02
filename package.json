@@ -1,0 +1,26 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Check it out!",
+  "main": "01.hello-world.js",
+  "dependencies": {
+    "bl": "^1.0.0",
+    "async": "^1.5.0",
+    "strftime": "^0.9.2",
+    "through2-map": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ogun@github.com/ogun/learnyounode.git"
+  },
+  "author": "ogun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogun/learnyounode/issues"
+  },
+  "homepage": "https://github.com/ogun/learnyounode#readme"
+}
